@@ -1,4 +1,4 @@
-# selenium-gcode-issue-archive
+# Selenium Google Code Issue Archive
 
 ## DO NOT LOG AN ISSUE HERE. THIS IS AN ARCHIVE ONLY
 
